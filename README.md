@@ -3,8 +3,8 @@
 - 🔭 Estou atualmente realizando projetos pessoais
 - 🌱 Cursando Engenharia de Software na Universidade Positivo
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felypesioma&show_icons=true&theme=dracula" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felypesioma&layout=compact&theme=dracula" alt="Top Languages" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=felypesioma&show_icons=true&theme=dracula" alt="GitHub stats" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felypesioma&layout=compact&theme=dracula" alt="Top Languages" />
 </div>
 
 <div style="display: inline_block"><br>
